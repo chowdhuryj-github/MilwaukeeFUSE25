@@ -27,3 +27,8 @@ hypothesis test:
     - what this test does is compares the means of the two categorical
 
 https://github.com/chowdhuryj-github/DataScienceDataAnalysis/blob/main/wk_06/lab/Lab_5_JIC.ipynb
+
+git pull
+git add .
+git commit -m "whatever you wanna say"
+git push
